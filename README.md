@@ -15,9 +15,9 @@ To use it, modify the file "main(2).py" directly under the title where it says "
 **Direct** is a list of "lines" or connections (edges of map) that you do not want the program to use, such as going directly from the start ot destination, or other not useful variations. It is important as with the current version of the application, it will generate all possible links between nodes (feature may be added to manually add connections)
 
 Then run: 
-'''bash
+```bash
 python main(2).py
-'''
+```
 
 ### Note
 
